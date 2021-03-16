@@ -1,5 +1,5 @@
 import random
-words = ['anta',"nathan","bread","cake","penis","apple","cave","event","letter","plugin","updates","windows","performance","hiring","filling","vlog","repair"]
+words = ['anta',"nathan","bread","cake","apple","cave","event","letter","plugin","updates","windows","performance","hiring","filling","vlog","repair"]
 def game_set_up():
     guessed_words=[]
     guessed_letters=[]
